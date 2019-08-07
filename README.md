@@ -20,7 +20,8 @@ get and post requests, and much more.
  2. Put folder in httdocs folder or where ever your web-server looks.
  3. Create mysql database.
  4. Upload the provided .sql file to your database.
- 5. Change database information in classes/DbConnection.php file to match database you created.
+ 5. Create a row for the organization_info table.
+ 6. Change database information in classes/DbConnection.php file to match database you created.
 ```
 
 ## How can I contribute?
