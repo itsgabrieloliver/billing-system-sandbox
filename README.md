@@ -1,7 +1,7 @@
 ![alt text](https://i.gyazo.com/70490a119c92871d623ba1d8b7d505a7.png)
 
 # Billing System Sandbox
-This application is a very simple administration login-system that will be used for the future custom billing panel for CrypticNode. This application was built in object-orientated php.
+This application is a very simple administration login-system that was to be used for custom billing panel for CrypticNode. This application was built in object-orientated php.
 
 ## What I learned from this project?
 I learned the more advanced aspects of creating an application in object-orientated php. I also did more database connecting, querying, classes, objects, issets,
